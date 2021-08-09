@@ -6,4 +6,5 @@ Description: We report the use of data-driven algorithms that consolidate bioiso
 
 Technologies: we used Lasso regression, decision tree,  and convolutional neural networks that use pictorial and 3D structures as input.
 
+Copyright (c) 2021 Barak Akabayov 
 Licensed under the [MIT License](LICENSE). 
